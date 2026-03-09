@@ -1,0 +1,42 @@
+# Enhanced JARVIS Voice Assistant Requirements
+
+# Core speech recognition and text-to-speech
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.11
+
+# For better offline speech recognition (optional)
+pocketsphinx==0.1.15
+
+# Web scraping and API requests
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Wikipedia integration
+wikipedia==1.4.0
+
+# Audio processing
+pyaudio==0.2.11
+
+# System control (Windows)
+pywin32==306
+
+# Alternative TTS engines
+gTTS==2.3.2
+
+# Weather API integration
+python-dotenv==1.0.0
+
+# Enhanced audio processing
+librosa==0.10.1
+soundfile==1.0.1
+
+# For advanced NLP (optional)
+nltk==3.8.1
+
+# For system monitoring
+psutil==5.9.5
+
+# For web interface
+flask==2.3.3
+flask-cors==4.0.0
